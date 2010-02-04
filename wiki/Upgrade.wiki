@@ -1,6 +1,4 @@
-#summary Upgrading
-
-== Upgrading ==
+= Upgrading =
 
 To upgrade existing installation of PowerDNS GUI:
  * copy `config/database.yml` to `/tmp/database.yml`
